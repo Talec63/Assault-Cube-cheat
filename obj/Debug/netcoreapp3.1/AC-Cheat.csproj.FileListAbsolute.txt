@@ -1,0 +1,15 @@
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\bin\Debug\netcoreapp3.1\AC-Cheat.exe
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\bin\Debug\netcoreapp3.1\AC-Cheat.deps.json
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\bin\Debug\netcoreapp3.1\AC-Cheat.runtimeconfig.json
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\bin\Debug\netcoreapp3.1\AC-Cheat.runtimeconfig.dev.json
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\bin\Debug\netcoreapp3.1\AC-Cheat.dll
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\bin\Debug\netcoreapp3.1\AC-Cheat.pdb
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\obj\Debug\netcoreapp3.1\AC-Cheat.csprojAssemblyReference.cache
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\obj\Debug\netcoreapp3.1\AC_Cheat.Form1.resources
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\obj\Debug\netcoreapp3.1\AC-Cheat.csproj.GenerateResource.cache
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\obj\Debug\netcoreapp3.1\AC-Cheat.AssemblyInfoInputs.cache
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\obj\Debug\netcoreapp3.1\AC-Cheat.AssemblyInfo.cs
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\obj\Debug\netcoreapp3.1\AC-Cheat.csproj.CoreCompileInputs.cache
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\obj\Debug\netcoreapp3.1\AC-Cheat.dll
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\obj\Debug\netcoreapp3.1\AC-Cheat.pdb
+C:\Users\Arclache\source\repos\AC-Cheat\AC-Cheat\obj\Debug\netcoreapp3.1\AC-Cheat.genruntimeconfig.cache

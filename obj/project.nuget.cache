@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nz/aoqrvfO6yfxSjYk8vFrFJLBgiBnBZheHu9QNfHK6YwO5Gf1jex4VGusJo0I0TD53TndaOwV4PhDdwd++QIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arclache\\source\\repos\\AC-Cheat\\AC-Cheat\\AC-Cheat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arclache\\.nuget\\packages\\memory.dll.x64\\1.2.21\\memory.dll.x64.1.2.21.nupkg.sha512",
+    "C:\\Users\\Arclache\\.nuget\\packages\\memory.dll.x86\\1.2.22\\memory.dll.x86.1.2.22.nupkg.sha512",
+    "C:\\Users\\Arclache\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

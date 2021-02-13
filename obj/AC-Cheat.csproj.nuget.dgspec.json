@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Arclache\\source\\repos\\AC-Cheat\\AC-Cheat\\AC-Cheat.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Arclache\\source\\repos\\AC-Cheat\\AC-Cheat\\AC-Cheat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arclache\\source\\repos\\AC-Cheat\\AC-Cheat\\AC-Cheat.csproj",
+        "projectName": "AC-Cheat",
+        "projectPath": "C:\\Users\\Arclache\\source\\repos\\AC-Cheat\\AC-Cheat\\AC-Cheat.csproj",
+        "packagesPath": "C:\\Users\\Arclache\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arclache\\source\\repos\\AC-Cheat\\AC-Cheat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arclache\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Memory.dll.x64": {
+              "target": "Package",
+              "version": "[1.2.21, )"
+            },
+            "Memory.dll.x86": {
+              "target": "Package",
+              "version": "[1.2.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
